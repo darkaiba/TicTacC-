@@ -1,0 +1,5 @@
+/home/anarchean/Projects/IA-1-CS/IA-1-CS/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/anarchean/Projects/IA-1-CS/IA-1-CS/bin/Debug/IA-1-CS.exe.mdb
+/home/anarchean/Projects/IA-1-CS/IA-1-CS/bin/Debug/IA-1-CS.exe
+/home/anarchean/Projects/IA-1-CS/IA-1-CS/obj/x86/Debug/IA-1-CS.exe
+/home/anarchean/Projects/IA-1-CS/IA-1-CS/obj/x86/Debug/IA-1-CS.exe.mdb
